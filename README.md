@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <h1 align="center">Hi 👋, I'm Fabio Augusto Weck</h1>
 <h3 align="center">A technology and code lover!</h3>
-
+<h2 align="center">Software Development student at Bow Valley College - Calgary/Canada</h2>
 
 - 🌱 I’m currently learning **React, .Net/MAUI, Advanced C# and Python**
 
