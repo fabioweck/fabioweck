@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Fabio Augusto Weck</h1>
 <h3 align="center">A technology and code lover!</h3>
 
-Software Development student at Bow Valley College - Calgary/Canada
+- 💻 Software Development student at Bow Valley College - Calgary/Canada 🍁
 
 - 🌱 I’m currently learning **React, .Net/MAUI, Advanced C# and Python**
 
