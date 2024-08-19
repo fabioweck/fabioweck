@@ -1,9 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <h1 align="center">Fabio Augusto Weck</h1>
 
-- 💻 Software Development student at Bow Valley College - Calgary/Canada 🍁
-
-- 🌱 I’m currently learning **Algorithms with Java, Advanced C# and Kotlin**
+- 💻 Software Developer!
 
 - 👨‍💻 All of my projects are available here at [https://github.com/fabioweck?tab=repositories](https://github.com/fabioweck?tab=repositories)
 
