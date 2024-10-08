@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <h1 align="center">Fabio Augusto Weck</h1>
 
-- 💻 Software Developer!
+- 💻 Software Developer at DataCan Services Corp!
 
 - 👨‍💻 All of my projects are available here at [https://github.com/fabioweck?tab=repositories](https://github.com/fabioweck?tab=repositories)
 
