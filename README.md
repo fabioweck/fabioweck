@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available here at [https://github.com/fabioweck?tab=repositories](https://github.com/fabioweck?tab=repositories)
 
-- 📫 How to reach me **fabio.weck@gmail.com**
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/fabio-augusto-weck-29679824b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fabio-augusto-weck-29679824b" height="30" width="40" /></a>
